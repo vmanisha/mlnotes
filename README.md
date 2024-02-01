@@ -6,7 +6,6 @@ Blogs
 3. PPO Implementation from scratch
 4. Product Image background generation with RAG.
 5. Role of positional encoding
-6. 
 
 
 Notes
